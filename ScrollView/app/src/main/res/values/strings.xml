@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">ScrollView</string>
+    <string name="article_title">Article Title!</string>
+    <string name="article_subtitle">Article Subtitle</string>
+    <string name="article_text">
+-Tabak Teraryum: Bitkili alan oluşturmak için kullanılan teraryum türüdür. Üst ve yan kısımları açık olur \n
+
+-Kişisel Teraryum: Botanik alan yaratmak için tercih edilen teraryum türü olarak öne çıkar. Çoğu zaman her tarafı kapalıdır. Bazı tasarımlarda ise çok açıklık bırakılır. \n
+
+-Hayvan Teraryum: Sürüngen, böcek gibi benzeri canlıların yaşamları için tasarlanan teraryum modellerine hayvan teraryum adı verilir. Hayvan teraryumda yan taraflar hava alabilecek şekilde açık bırakılırken üst taraf için bir tel kullanılır. \n
+
+Ancak hangi türde olursa olsun dışarıda ya da internette bir teraryum gördüğümüz zaman hayranlıkla bakıyor ve bir benzerine sahip olmak istiyoruz. Biz de bu yazımızda ev ortamında teraryum nasıl yapılır? sorusunu cevapladık. Oldukça basit bir şekilde yapabileceğiniz teraryumlar sayesinde hayallerinizde kurduğunuz botanik ortamı yaratabilirsiniz.
+
+Malzemeler; \n
+-Cam Fanus \n
+-Ufak Çakıl Taşları \n
+-Teraryum Toprağı \n
+-Renkli Deniz Kumu \n
+-Süs Eşyalar (Gemi, Korsan Maket, ev, köprüi vb.) \n
+-Teraryum Bitkileri \n
+  Evde teraryum yapmanın ilk aşaması fanusunuz zeminini teraryum toprağı ile kaplamak olmalı. Ancak zemininde tamamını teraryum toprağı ile kaplamayın. Eğer fanusunuz yan tarafı açık ise açık olduğu kısmın arkasında ufak bir boş zemin bırakmanızda fayda var. Nedenini ise ilerleyen aşamalarda göreceksiniz.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer eget leo risus. Fusce dictum finibus orci sit amet facilisis. Vivamus quis malesuada nibh. Nulla bibendum velit eget lectus molestie, quis volutpat nibh pretium. Vivamus gravida, tortor in tincidunt interdum, nibh neque ultrices ipsum, ac dictum felis lorem ut nibh. Aliquam erat volutpat. Curabitur quis lorem eu justo viverra euismod. Mauris at ornare quam. Duis facilisis est quis placerat fermentum. Maecenas id varius ipsum, a tempus augue. Maecenas id porttitor purus. Pellentesque a accumsan risus. Curabitur turpis orci, sollicitudin ultrices ex quis, venenatis blandit justo. Curabitur ullamcorper sem nec rhoncus rutrum. Curabitur luctus in mi in consequat. Fusce porttitor vehicula justo, in vehicula lacus volutpat id.
+
+Aliquam erat volutpat. Nunc blandit et est a consequat. Pellentesque interdum vel dui at luctus. Integer ultricies aliquet nibh, vel feugiat urna condimentum ut. Fusce ornare nunc ut porta semper. Nullam sodales at ligula quis porttitor. Mauris ut augue tempor, fringilla dolor ac, aliquam massa. Suspendisse massa massa, ultrices sed nisl non, faucibus sodales ligula.
+
+Sed vel enim velit. Nulla facilisi. Curabitur sollicitudin elementum leo, a rutrum dolor interdum et. Nullam mattis vulputate tincidunt. Proin gravida consectetur tristique. Mauris non nibh sem. Maecenas egestas sapien nunc, nec rutrum orci consequat vitae. Quisque tortor enim, venenatis a ante at, consectetur facilisis diam. Praesent ut eros nec mauris euismod consectetur non vitae neque. Donec a facilisis ex. Sed in mattis felis, ut bibendum justo. Aenean eleifend leo et efficitur pharetra. Duis id rhoncus ex. Vivamus a erat ac urna faucibus vehicula. Curabitur nec neque neque.
+
+Donec aliquam ipsum eget ex sollicitudin egestas. Duis nec aliquet arcu, auctor suscipit lacus. Mauris in vestibulum dolor. Aenean orci orci, suscipit at dignissim suscipit, porta rutrum nulla. Praesent vitae congue massa, id viverra felis. Vivamus accumsan nisi eu diam semper, ut rhoncus orci semper. Aliquam tempor egestas varius. Donec tempor rutrum ipsum, quis aliquam nibh suscipit eget. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras vitae tincidunt metus. Vestibulum diam felis, mollis quis aliquam a, gravida non lectus.
+
+Vestibulum neque enim, ullamcorper quis mi ut, faucibus ultricies nisl. Fusce faucibus volutpat pulvinar. Sed placerat ultrices posuere. Cras eleifend convallis imperdiet. Sed faucibus vel purus eget venenatis. Phasellus consequat purus ut massa interdum, ut ultricies leo cursus. Phasellus sit amet urna sed purus rutrum luctus. Praesent laoreet elit egestas euismod pharetra. Curabitur ac ipsum ut justo porta bibendum. Vestibulum sit amet purus eu nulla aliquam interdum. Fusce non ante interdum, iaculis tortor non, vestibulum est. Maecenas tincidunt nisi quis lacus sodales lacinia. Donec vitae nunc id erat commodo congue non in augue. Mauris sit amet urna imperdiet, pretium orci a, placerat metus.
+    </string>
+    <string name="comment_button">Comment!</string>
+</resources>
